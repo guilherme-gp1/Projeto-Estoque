@@ -99,7 +99,7 @@ Novas funcionalidades e melhorias serão implementadas conforme o desenvolviment
 
 ## 👨‍💻 Desenvolvedor
 
-Projeto desenvolvido por **[Seu nome]**.
+Projeto desenvolvido por **[Guilherme]**.
 
 ## 📄 Licença
 
